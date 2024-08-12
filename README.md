@@ -1,0 +1,3 @@
+# Encapsulation
+
+Nesne yönelimli programlamada (OOP) önemli bir prensiptir. Kapsülleme, bir sýnýfýn içindeki verilerin ve bu verilere eriþim saðlayan metodlarýn dýþarýdan doðrudan eriþimini sýnýrlandýrarak, bu verilere sadece sýnýfýn içinde tanýmlanan belirli yollarla eriþilmesini saðlamaktýr. Kýsacasý, verileri ve fonksiyonlarý bir arada tutarak dýþ dünyadan gizlemeyi ve sadece kontrollü bir þekilde eriþilmesine izin vermeyi amaçlar.
